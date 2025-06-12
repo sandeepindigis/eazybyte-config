@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank  qa cards related local API's"
+  contactDetails:
+    name: "Cards Deo- Developer"
+    email: "cards@eazybank.com"
+  onCallSupport:
+    - (111)123-9999
+    - (111)323-0099

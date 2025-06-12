@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank prod loans related local API's"
+  contactDetails:
+    name: "loans Deo- Developer"
+    email: "loans@eazybank.com"
+  onCallSupport:
+    - (111)123-8090
+    - (111)323-8009

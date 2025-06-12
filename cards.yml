@@ -1,0 +1,11 @@
+#spring.application.name=Card
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to EazyBank cards related local API's"
+  contactDetails:
+    name: "Cards Deo- Developer"
+    email: "cards@eazybank.com"
+  onCallSupport:
+   - (111)123-2233
+   - (111)323-3232

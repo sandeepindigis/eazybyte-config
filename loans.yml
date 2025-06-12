@@ -1,0 +1,13 @@
+#spring.application.name=loans
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local API's"
+  contactDetails:
+    name: "loans Deo- Developer"
+    email: "loans@eazybank.com"
+  onCallSupport:
+    - (111)123-2233
+    - (111)323-3232
+

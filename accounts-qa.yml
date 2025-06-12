@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local QA API's"
+  contactDetails:
+    name: "Smitha Deo - QA"
+    email: "smitha@eazybank@gmail.com"
+  onCallSupport:
+    - (555)555-2341
+    - (555)523-3452
